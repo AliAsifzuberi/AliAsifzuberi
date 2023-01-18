@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Asif Zuberi</h1>
 <h3 align="center">A BBA&CS Double Degree Student at Wilfrid Laurier University.</h3>
 
-- 🔭 I’m currently working on **a project in VBA**
+- 🔭 I’m currently working on **a project in Java**
 
-- 🌱 I’m currently learning **Java, SQL, React**
+- 🌱 I’m currently learning **C, SQL, React**
 
 - 📫 How to reach me **alizuberi17@gmail.com**
 
